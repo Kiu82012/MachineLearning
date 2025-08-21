@@ -24,4 +24,4 @@ My approach followed these steps:
 *   **Model Evaluation:** Built a predicitve system to input some test data to predict the insurance costs.
 
 
-[![Open In Colab](https://colab.research.google.com/drive/1eWKO2NFmg99gSe6Ur1JOOdKI-DxEcGvw#scrollTo=GPWnzwQpEA_t)
+[Open In Colab](https://colab.research.google.com/drive/1eWKO2NFmg99gSe6Ur1JOOdKI-DxEcGvw#scrollTo=GPWnzwQpEA_t)
